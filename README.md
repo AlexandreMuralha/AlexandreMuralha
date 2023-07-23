@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alex, I'm a front-end developer.
+### Hi there 👋 I'm Alex.
 
 ### Some techs and tools that I work with:
 
